@@ -1,0 +1,2 @@
+var naoDefinida;
+let tambemNaoDefinida;
